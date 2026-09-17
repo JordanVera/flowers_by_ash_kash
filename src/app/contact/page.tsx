@@ -36,7 +36,7 @@ export default function Contact() {
             title="Portland service area map"
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            src="https://maps.google.com/maps?q=Portland%2C%20OR&t=&z=11&ie=UTF8&iwloc=&output=embed"
+            src="https://maps.google.com/maps?q=Fort%20Washington%2C%20MD&t=&z=11&ie=UTF8&iwloc=&output=embed"
           />
         </aside>
       </div>
