@@ -1,0 +1,16 @@
+export const siteConfig = {
+  businessName: 'Flowers by Ash Kash',
+  hasEcommerce: true,
+  location: 'Fort Washington, Maryland',
+  tagline: 'Flowers for the beautifully ordinary.',
+  email: 'flowersbyashkash@gmail.com',
+  phone: '(240) 492-5116',
+  phoneHref: '+12404925116',
+  address: '123 Main Street, Fort Washington, MD 20744',
+  hours: 'Tuesday–Saturday, 9am–5pm',
+  deliveryZips: ['20744', '20745', '20746', '20747', '20748', '20749'],
+  deliveryFee: 12,
+  instagramUrl: 'https://www.instagram.com/',
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://example.com',
+  demo: true,
+};
