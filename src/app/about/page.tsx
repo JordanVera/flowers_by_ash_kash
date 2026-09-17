@@ -22,7 +22,7 @@ export default function About() {
             <em>A whole lot of heart.</em>
           </h1>
           <p>
-            I’m Ashley, the hands and heart behind Fiore. What began as flowers
+            I’m Ashley, the hands and heart behind Flowers by Ash Kash. What began as flowers
             gathered for friends grew into a little studio built around one
             belief: beauty brings people together.
           </p>
