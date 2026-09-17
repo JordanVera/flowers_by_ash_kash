@@ -20,7 +20,7 @@ import { siteConfig as c } from '@/siteConfig';
 const quotes = [
   {
     quote:
-      'The kind of flowers that make you stop, smile, and feel something. Every arrangement from Haydee is a little work of art.',
+      'The kind of flowers that make you stop, smile, and feel something. Every arrangement from Ashley is a little work of art.',
     name: 'Sarah M.',
     context: 'A very happy neighbor',
   },
@@ -195,7 +195,7 @@ export default function Home() {
             <em>Made for connection.</em>
           </h2>
           <p>
-            Hi, I’m Haydee. I believe the most meaningful things are often the
+            Hi, I’m Ashley. I believe the most meaningful things are often the
             simplest—a kind note, a familiar face, a bunch of flowers on your
             kitchen table.
           </p>
@@ -206,7 +206,7 @@ export default function Home() {
           <Link className="text-link" href="/about">
             A little more about us <ArrowUpRight size={17} />
           </Link>
-          <span className="signature">With love, Haydee</span>
+          <span className="signature">With love, Ashley</span>
         </div>
       </section>
       <section className="testimonials">

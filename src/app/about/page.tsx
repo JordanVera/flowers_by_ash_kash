@@ -22,7 +22,7 @@ export default function About() {
             <em>A whole lot of heart.</em>
           </h1>
           <p>
-            I’m Haydee, the hands and heart behind Fiore. What began as flowers
+            I’m Ashley, the hands and heart behind Fiore. What began as flowers
             gathered for friends grew into a little studio built around one
             belief: beauty brings people together.
           </p>
@@ -36,8 +36,8 @@ export default function About() {
             you,” we want your flowers to feel personal. You’ll work directly
             with the people who make them.
           </p>
-          <span className="signature">With love, Haydee</span>
-        </div>
+          <span className="signature">With love, Ashley</span>
+        </div>    
       </section>
       <ContactCTA />
     </>
